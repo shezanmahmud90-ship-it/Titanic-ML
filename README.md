@@ -22,4 +22,3 @@ Predict Titanic passenger survival using Python and machine learning. Includes d
 ## Usage
 1. Open the notebook in [Google Colab](https://colab.research.google.com/) or locally in Jupyter.  
 2. Run the cells step by step: load data → preprocess → train model → evaluate → visualize → generate submission.
-
